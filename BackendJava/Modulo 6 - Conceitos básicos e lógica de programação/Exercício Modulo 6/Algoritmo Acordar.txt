@@ -1,0 +1,20 @@
+Algoritmo do acordar:
+1 - Abrir os olhos de manha
+     Levantar-me da cama
+2 - Tenho atendimento? SIM
+	Escovar os dentes
+	Tomar banho
+	Preparar cafe
+	Tomar o cafe
+	Ir para o consultorio
+
+3 – NAO
+	Escovar os dentes
+	Preparar cafe
+	Tomar o cafe
+	Ir Academia
+	Voltar para casa
+	Tomar banho
+	Ir para o consultorio
+
+

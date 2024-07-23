@@ -1,0 +1,16 @@
+Exercício Módulo 1:
+A entrega desse exercício consiste em:
+Pesquisar sobre HTML, CSS e JavaScript;
+Indicar a importância deles na construção de páginas;
+Entregar seus apontamentos em um arquivo .txt
+__________________________________________
+
+Numa visão geral, temos:
+
+- O HTML é uma linguagem de marcação que fornece a estrutura básica dos sites, aprimorada e modificada por outras tecnologias, como CSS e JavaScript;
+- CSS é usado para controlar a apresentação, formatação e layout;
+- JavaScript é usado para controlar o comportamento de diferentes elementos.
+
+Elas são tecnologias fundamentais para a construção de páginas web, onde: o HTML é responsável pela estrutura básica da página, enquanto o CSS é usado para estilizar a aparência e o layout. O JavaScript, por sua vez, é usado para adicionar interatividade e dinamismo à página. Juntas, essas tecnologias criam experiências de usuário envolventes e funcionais.
+Em resumo, o HTML é responsável por definir a estrutura da página, o CSS é responsável por definir a aparência e o layout, e o JavaScript é responsável por adicionar interatividade e dinamismo à página.
+Exemplificando, o HTML pode ser usado para definir um formulário de contato, o CSS pode ser usado para estilizar o formulário e o JavaScript pode ser usado para validar os campos do formulário e enviar as informações para o servidor. 

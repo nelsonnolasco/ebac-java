@@ -1,0 +1,10 @@
+Programação Procedural: é um paradigma de programação em que os procedimentos são realizados em sequência.
+A programação procedural tem as seguintes características:
+* Normalmente separa os dados do sistema das operações que manipulam os dados.
+* O código é estruturado em torno de chamadas a procedimentos.
+* É derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls). 
+A programação procedural é comumente conhecida como Programação Estruturada. É uma forma de desenvolvimento em que todos os programas possíveis podem ser reduzidos a apenas três estruturas: sequência, decisão e iteração.
+
+Programação Orientada a Objetos: a programação orientada a objetos (POO) é um paradigma de programação que organiza o código em torno de objetos. Os objetos representam entidades do mundo real e têm características (atributos) e comportamentos (métodos). 
+A POO é um padrão de desenvolvimento seguido por muitas linguagens, como Java, C# e Python. É amplamente utilizada na programação moderna e permite que os programadores criem estruturas de código mais eficientes e organizadas, além de permitir o reuso de código. Também reduz os erros de programação e promove a reutilização de código.
+
